@@ -46,12 +46,6 @@
 
 ###
 
-### 👇 Hit this in your terminal to connect
-```bash
-npx tanishsunitapareek
-```
-
-###
 ### A little more about me! 🧟‍♂️ 
 
 ```javascript
